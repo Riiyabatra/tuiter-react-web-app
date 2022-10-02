@@ -1,0 +1,125 @@
+body {
+    background-color: black;
+}
+.wd-div {
+
+}
+.wd-subHeading {
+    color: rgb(110, 118, 125);
+    font-size: 13px;
+}
+
+.wd-heading {
+    color: white;
+    font-size: 20px;
+}
+
+.wd-image {
+    border-radius: 50%;
+    width: 48px;
+    float: left;
+    height: 48px;
+}
+
+.wd-author {
+    font-size: 15px;
+    color: white;
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+}
+
+.wd-handle {
+    font-size: 15px;
+    color: lightgray;
+    position: relative;
+    display: inline;
+    align-items: flex-start;
+}
+
+.wd-post {
+    color: white;
+    display: inline;
+    align-items: flex-start;
+    max-width: 506px;
+}
+
+.wd-flex-container {
+    display: flex;
+    flex-direction: column;
+    border-width:1px;
+    border-style:solid;
+    border-color:rgb(47, 51, 54);
+    padding: 10px;
+}
+
+.wd-flex-start {
+    display: flex;
+    align-items: flex-start;
+}
+
+.wd-bookmark-author {
+    padding: 10px;
+    width: 504px;
+}
+
+.wd-feed-title {
+    color: white;
+    padding-left: 12px;
+    padding-top: 12px;
+}
+
+.wd-feed {
+    color: rgb(110, 118, 125);
+    font-size: 13px;
+    padding-left: 12px;
+    padding-top: 12px;
+}
+
+.wd-feed-image {
+    width: 100%;
+    height: 264px;
+}
+
+.wd-bookmark-feed {
+    border-radius: 20px;
+    border: 1px solid lightgray;
+    overflow: hidden;
+}
+
+i.wd-liked {
+    color: red;
+}
+
+.wd-count {
+    font-weight: 400;
+    margin-left: 12px;
+    color: lightgray;
+}
+
+.wd-liked {
+    color: red;
+}
+
+.wd-icon-color {
+    color: lightgray;
+}
+
+.wd-bookmark-footer {
+    padding: 10px;
+}
+
+.wd-icon-area {
+    width: 24%;
+    text-align: center;
+}
+
+.wd-ellipsis {
+    color: white;
+    float: right;
+    padding-right: 12px;
+}
+
+.wd-bookmark-content {
+    padding-bottom: 12px;
+}
