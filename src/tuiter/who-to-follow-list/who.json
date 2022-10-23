@@ -1,0 +1,20 @@
+[
+  {
+    "_id": 123,
+    "userName": "Java",
+    "handle": "Java",
+    "avatarIcon": "java.png"
+  },
+  {
+    "_id": 234,
+    "userName": "Relativity",
+    "handle": "relativity",
+    "avatarIcon": "relativity.png"
+  },
+  {
+    "_id": 345,
+    "userName": "Virgin",
+    "handle": "virgin",
+    "avatarIcon": "virgin.jpeg"
+  }
+]
