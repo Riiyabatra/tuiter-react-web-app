@@ -42,13 +42,13 @@ const PostListItem = (
                     </div>
                 </div>
                 <div className="wd-bookmark-footer">
-                    <a href="#" className="wd-text-decoration"><i className="fa fa-comment-o wd-icon-color wd-icon-area" aria-hidden="true"><span
+                    <a href="#top" className="wd-text-decoration"><i className="fa fa-comment-o wd-icon-color wd-icon-area" aria-hidden="true"><span
                         className="m-2 wd-count">{post.comments}</span></i></a>
-                    <a href="#" className="wd-text-decoration"><i className="fa fa-retweet wd-icon-color wd-icon-area" aria-hidden="true"><span
+                    <a href="#top" className="wd-text-decoration"><i className="fa fa-retweet wd-icon-color wd-icon-area" aria-hidden="true"><span
                         className="m-2 wd-count">{post.retweets}</span></i></a>
-                    <a href="#" className="wd-text-decoration"><i className="fa fa-heart wd-icon-area wd-icon-color" aria-hidden="true"><span
+                    <a href="#top" className="wd-text-decoration"><i className="fa fa-heart wd-icon-area wd-icon-color" aria-hidden="true"><span
                         className="wd-count m-2 wd-liked">{post.likes}</span></i></a>
-                    <a href="#" className="wd-text-decoration"><i className="fa fa-upload wd-icon-color wd-icon-area" aria-hidden="true"></i></a>
+                    <a href="#top" className="wd-text-decoration"><i className="fa fa-upload wd-icon-color wd-icon-area" aria-hidden="true"></i></a>
                 </div>
             </div>
             <hr/>
