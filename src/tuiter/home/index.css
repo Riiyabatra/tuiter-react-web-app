@@ -88,6 +88,10 @@
     color: gray;
 }
 
+.wd-icon-color-red {
+    color: red;
+}
+
 .wd-icon-area {
     width: 24%;
     text-align: center;
@@ -97,3 +101,6 @@
     text-decoration: none;
 }
 
+.wd-float-right {
+    float: right;
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "_id": 234,
+    "topic": "Space",
+    "userName": "SpaceX",
+    "time": "2h",
+    "title": "100s of SpaceX Starships land on Mars after a 6 month journey. 1000s of Martian colonists being building Mars Base 1",
+    "image": "../../images/elon.jpeg",
+    "liked": true,
+    "replies": 123,
+    "retuits": 432,
+    "likes": 2345,
+    "handle": "@spacex",
+    "tuit": "You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars"
+  },
+  {
+    "_id": 123,
+    "topic": "Tesla",
+    "userName": "Tesla",
+    "time": "4d",
+    "title": "100s of SpaceX Starships land on Mars after a 6 month journey. 1000s of Martian colonists being building Mars Base 1",
+    "image": "../../images/tesla.jpeg",
+    "liked": false,
+    "replies": 234,
+    "retuits": 543,
+    "likes": 3456,
+    "handle": "@tesla",
+    "tuit": "Tesla was incorporated in July 2003 by Martin Eberhard and Marc Tarpenning as Tesla Motors. The company's name is a tribute to inventor and electrical engineer Nikola Tesla. In February 2004, via a $6.5 million investment, Elon Musk became the largest shareholder of the company. He has served as CEO since 2008"
+  },
+  {
+    "_id": 345,
+    "topic": "Space",
+    "userName": "SpaceX",
+    "time": "2h",
+    "title": "100s of SpaceX Starships land on Mars after a 6 month journey. 1000s of Martian colonists being building Mars Base 1",
+    "image": "../../images/elon.jpeg",
+    "liked": true,
+    "replies": 345,
+    "retuits": 321,
+    "likes": 1234,
+    "handle": "@spacex",
+    "tuit": "The proposed truck uses self-leveling suspension which compensates for variable load and some models feature all-wheel drive. The company states that other standard features will include on-board power inverters for supplying both 120 and 240-volt electricity, allowing use of power tools without a portable generator. An air compressor for powering pneumatic tools is included."
+  }
+]
+
