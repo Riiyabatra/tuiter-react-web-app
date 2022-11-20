@@ -10,7 +10,7 @@ import HomeComponent from "./home";
 import ProfileComponent from "./profile";
 import WhoToFollowList from "./who-to-follow-list";
 import EditProfileComponent from "./edit-profile";
-const store = configureStore({reducer: {who: whoReducer, tuits: tuitsReducer, prof: profileReducer}});
+const store = configureStore({reducer: {who: whoReducer, tuitsData: tuitsReducer, prof: profileReducer}});
 
 function Tuiter() {
     return (
